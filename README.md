@@ -12,6 +12,8 @@ This repository contains the source code for the article **[Bloc Too Tough? Star
 - [Contribution Guidelines](#contribution-guidelines)
 - [Contact](#contact)
 
+## Introduction
+
 Welcome to the Counter App with Bloc! This app was initially created using Cubit and has been upgraded to Bloc to demonstrate how you can transition from simple state management to a more scalable, event-driven approach.
 
 ## Features
