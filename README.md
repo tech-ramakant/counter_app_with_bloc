@@ -1,6 +1,6 @@
 # Bloc Counter App 🚀
 
-This repository contains the source code for the article **[Bloc Too Tough? Start with Cubit for a Smoother Ride!](https://medium.com/@tech.ramakant/bloc-too-tough-start-with-cubit-for-a-smoother-ride-2a437435d3e5)** published on Medium. The app demonstrates a transition from Cubit to Bloc for state management in a Flutter app, showing how to handle more complex features using events and states.
+This repository contains the source code for the article **[Smooth Transition from Cubit to Bloc!](https://medium.com/@tech.ramakant/smooth-transition-from-cubit-to-bloc-7b12e1d4d8ef)** published on Medium. The app demonstrates a transition from Cubit to Bloc for state management in a Flutter app, showing how to handle more complex features using events and states.
 
 ## Table of Contents
 - [Introduction](#introduction)
